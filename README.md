@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @AdarsHH30<br>- 👀 I’m interested in exploring new programming languages...<br>- 🌱 I’m currently learning Django...<br>- 📫 You can reach me through hegdeadarsh82@gmail.com...<br><br><br>
+- 👋 Hi, I’m @AdarsHH<br>- 👀 I’m interested in exploring new programming languages...<br>- 🌱 I’m currently learning Django...<br>- 📫 You can reach me through adarshhegde473@gmail.com...<br><br><br>
 
 
 ## 🌐 Socials:
