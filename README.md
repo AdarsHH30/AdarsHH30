@@ -1,3 +1,6 @@
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
+
 # 💫 About Me:
 - 👋 Hi, I’m @AdarsHH<br>- 👀 I’m interested in exploring new programming languages...<br>- 🌱 I’m currently learning Django...<br>- 📫 You can reach me through adarshhegde473@gmail.com...<br><br><br>
 
