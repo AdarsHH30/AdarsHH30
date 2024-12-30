@@ -1,4 +1,3 @@
-![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/AdarsHH30/AdarsHH30/output/github-contribution-grid-snake-dark.svg)
 
 
 
