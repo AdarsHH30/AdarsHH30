@@ -31,6 +31,6 @@
 ![Linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![Postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
 
-## 🌐 Socials
+## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adarsh4572)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-hegde-b48502283)
