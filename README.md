@@ -36,4 +36,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-hegde-b48502283)
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/AdarsHH30/AdarsHH30/blob/output/github-snake-dark.svg)
