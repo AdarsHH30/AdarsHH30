@@ -1,4 +1,5 @@
 
+![snake gif](https://github.com/AdarsHH30/AdarsHH30/blob/output/github-snake-dark.svg)
 
 
 ## 🚀 Technologies & Tools
