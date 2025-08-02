@@ -1,4 +1,8 @@
-![Snake Animation](https://github.com/AdarsHH30/AdarsHH30/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdarsHH30/AdarsHH30/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdarsHH30/AdarsHH30/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AdarsHH30/AdarsHH30/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 🚀 Technologies & Tools
 
